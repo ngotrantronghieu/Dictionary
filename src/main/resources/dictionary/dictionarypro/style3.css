@@ -1,0 +1,48 @@
+.root {
+    -fx-background-color: #ead5dc;
+}
+
+.button {
+    -fx-background-color: #eec9d2;
+}
+
+#headerPane {
+    -fx-background-color: #f4b6c2;
+}
+
+.label {
+    -fx-text-fill: #f57891;
+}
+
+#themeChoiceBox {
+    -fx-background-color: #eec9d2;
+}
+
+#searchBox {
+    -fx-background-color: #eee3e7;
+}
+
+.list-cell {
+    -fx-control-inner-background: #f7f0f3;
+}
+
+#searchResult {
+    -fx-selection-bar: #f6abb6;
+    -fx-background-color: #f7f0f3;
+}
+
+#wordTargetLabel {
+    -fx-background-color: #eec9d2;
+}
+
+#wordTypeLabel {
+    -fx-background-color: #eec9d2;
+}
+
+#wordPronunciationLabel {
+    -fx-background-color: #eec9d2;
+}
+
+#wordExplainLabel {
+    -fx-background-color: #eec9d2;
+}

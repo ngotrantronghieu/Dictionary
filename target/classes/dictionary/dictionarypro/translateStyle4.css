@@ -1,0 +1,28 @@
+.content {
+    -fx-background-color: transparent;
+}
+.viewport{
+    -fx-background-color: transparent;
+}
+
+.root {
+    -fx-background-color: #3da4ab;
+}
+
+.label {
+    -fx-background-color: #0e9aa7;
+    -fx-text-fill: #4a4e4d;
+}
+
+.textArea {
+    -fx-background-color: #fff4d6;
+}
+
+#translationExplanation {
+    -fx-text-fill: #4a4e4d;
+}
+
+.button {
+    -fx-background-color: #ff9882;
+    -fx-text-fill: #4a4e4d;
+}
