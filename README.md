@@ -1,6 +1,6 @@
-# DictionaryPro
+# Dictionary Pro
 
-DictionaryPro is a desktop dictionary application built with Java and JavaFX. It allows users to look up word definitions, translate text using an external API, and hear the pronunciation of words.
+Dictionary Pro is a desktop dictionary application built with Java and JavaFX. It allows users to look up word definitions, translate text using an external API, and hear the pronunciation of words.
 
 ## Features
 
